@@ -21,5 +21,5 @@ BACKEND
 - Mongoose
 - Dotenv
 
-
+Aplikacja została zdeployowana z uzyciem Netlify i widoczna jest pod adresem: https://articles-app.netlify.app/.
 
