@@ -7,6 +7,7 @@ FRONTEND
 - React
 - Redux
 - React Router DOM
+- Formik
 - Styled Components
 - Axios
 - Ant
